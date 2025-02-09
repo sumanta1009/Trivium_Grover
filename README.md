@@ -17,3 +17,5 @@ ax = figure.gca()  # Get the current axis
 ax.set_xlabel('Qubit String', fontsize=12)  # Set x-axis label
 
 ax.set_ylabel('Count', fontsize=12)  # Set y-axis label
+
+## To run in IBM qunatum hardware, run 'Trivium_GS_hardware.ipynb'.
