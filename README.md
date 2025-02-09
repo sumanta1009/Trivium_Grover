@@ -19,4 +19,4 @@ ax.set_xlabel('Qubit String', fontsize=12)  # Set x-axis label
 ax.set_ylabel('Count', fontsize=12)  # Set y-axis label
 
 ## To run in IBM qunatum hardware, open 'Trivium_Grover_IBM_hardware.ipynb'.
-Due to the large circuit complexity (discussed in the next section) and with 10-minute free access, we can not get the result after submitting the code in IBM quantum hardware. It is showing 'Number of qubits greater than device'.
+Due to the large circuit complexity and with 10-minute free access, we can not get the result after submitting the code in IBM quantum hardware. It is showing 'Number of qubits greater than device'.
